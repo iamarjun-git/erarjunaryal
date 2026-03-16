@@ -19,7 +19,8 @@ export function SiteNav() {
           alignItems: "center",
         }}
       >
-        <Link href="/" style={{ fontWeight: 700, fontSize: "1.05rem" }}>
+        <Link href="/" style={{ fontWeight: 700, fontSize: "1.05rem", display: "flex", alignItems: "center", gap: "0.5rem" }}>
+          <img src="/logo.svg" alt="Er. Arjun Aryal Logo" style={{ height: "32px", width: "auto" }} />
           Arjun Aryal
         </Link>
 
