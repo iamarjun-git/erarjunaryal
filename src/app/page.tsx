@@ -17,6 +17,16 @@ export default function HomePage() {
         <h2>Featured</h2>
         <div className="grid">
           <div className="card">
+            <h3>Projects</h3>
+            <p>
+              Explore my portfolio of web applications, mobile apps, and educational tools.
+            </p>
+            <Link href="/projects" className="badge">
+              View projects
+            </Link>
+          </div>
+
+          <div className="card">
             <h3>Blog</h3>
             <p>
               Read my latest thoughts on software engineering, teaching, and

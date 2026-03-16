@@ -19,6 +19,15 @@ export const blogPosts: BlogPost[] = [
     tags: ["teaching", "education"],
     content: `## Build a practice-first classroom\n\nWhen students can build something meaningful, they learn faster. Start each lesson with a challenge:\n\n- Present a real problem\n- Work through a guided solution\n- Let students explore alternate approaches\n\n### Keep feedback cycles short\n\nUse quick quizzes, in-class coding, and peer review to ensure understanding.`,
   },
+  {
+    slug: "building-responsive-web-designs",
+    title: "Building Responsive Web Designs",
+    summary:
+      "Essential techniques for creating websites that work beautifully on all devices.",
+    publishedAt: "2025-09-20",
+    tags: ["css", "responsive", "design"],
+    content: `## Mobile-first approach\n\nStart designing for mobile screens first, then enhance for larger screens:\n\n- Use flexible grid layouts\n- Implement media queries\n- Test on real devices\n\n### Key CSS techniques\n\n- Flexbox and Grid for layouts\n- Relative units (rem, em, %)\n- Viewport units (vw, vh)\n\nRemember: Responsive design is about creating the best experience for each user, regardless of their device.`,
+  },
 ];
 
 export const notes: Note[] = [
@@ -39,6 +48,15 @@ export const notes: Note[] = [
     updatedAt: "2026-01-22",
     tags: ["learning", "plan"],
     content: `- **Monday/Wednesday:** Review lecture notes and practice problems\n- **Tuesday/Thursday:** Work on a small project or coding challenge\n- **Friday:** Read an article or documentation for 30 minutes\n- **Weekend:** Reflect, refactor, and plan next week`,
+  },
+  {
+    id: "debugging-javascript",
+    title: "Debugging JavaScript Effectively",
+    excerpt:
+      "Common debugging techniques and tools to quickly identify and fix issues.",
+    updatedAt: "2026-03-01",
+    tags: ["javascript", "debugging"],
+    content: `### Use console methods\n\n- \`console.log\` for values\n- \`console.table\` for arrays/objects\n- \`console.error\` for errors\n\n### Browser dev tools\n\n- Set breakpoints in Sources tab\n- Use Network tab for API calls\n- Check Application tab for storage\n\n### Common mistakes\n\n- Forgetting to return values\n- Scope issues with var/let/const\n- Async code without proper handling`,
   },
 ];
 

@@ -8,8 +8,9 @@ export default function ContactPage() {
           methods:
         </p>
         <ul>
-          <li>Email: <strong>arjun@example.com</strong> (replace with your real email)</li>
-          <li>LinkedIn: <strong>linkedin.com/in/arjun-aryal</strong></li>
+          <li>Email: <strong>arjun.aryal@example.com</strong></li>
+          <li>LinkedIn: <strong>linkedin.com/in/er-arjun-aryal</strong></li>
+          <li>GitHub: <strong>github.com/arjunaryal</strong></li>
         </ul>
         <p>
           If you're a student, educator, or a team looking for collaboration,
