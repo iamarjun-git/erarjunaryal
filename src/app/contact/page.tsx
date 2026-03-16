@@ -4,7 +4,7 @@ export default function ContactPage() {
       <section className="section">
         <h1>Contact</h1>
         <p>
-          I’m always happy to connect. You can reach me through the following
+          I&apos;m always happy to connect. You can reach me through the following
           methods:
         </p>
         <ul>
@@ -13,7 +13,7 @@ export default function ContactPage() {
           <li>GitHub: <strong>github.com/arjunaryal</strong></li>
         </ul>
         <p>
-          If you're a student, educator, or a team looking for collaboration,
+          If you&apos;re a student, educator, or a team looking for collaboration,
           feel free to send a message.
         </p>
       </section>

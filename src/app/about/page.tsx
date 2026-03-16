@@ -4,9 +4,9 @@ export default function AboutPage() {
       <section className="section">
         <h1>About Me</h1>
         <p>
-          I'm <strong>Er. Arjun Aryal</strong>, a Computer Engineering graduate from
-          Lumbini Engineering Management and Science College (2017) and a master's
-          degree holder from HIST College, Kathmandu. I'm currently teaching at
+          I&apos;m <strong>Er. Arjun Aryal</strong>, a Computer Engineering graduate from
+          Lumbini Engineering Management and Science College (2017) and a master&apos;s
+          degree holder from HIST College, Kathmandu. I&apos;m currently teaching at
           Horizon Gautam Buddha Secondary and New Horizon College while building
           web experiences.
         </p>
