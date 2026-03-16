@@ -64,7 +64,7 @@ export default function BlogPage() {
         {/* Results count */}
         {searchQuery && (
           <p style={{ marginBottom: "1rem", color: "var(--muted)" }}>
-            Found {filteredPosts.length} post{filteredPosts.length !== 1 ? 's' : ''} matching "{searchQuery}"
+            Found {filteredPosts.length} post{filteredPosts.length !== 1 ? 's' : ''} matching &quot;{searchQuery}&quot;
           </p>
         )}
       </section>
